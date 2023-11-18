@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br><br>🌱 I’m currently learning Machine Learning<br><br>📫 How to reach me zahidgrgz@gmail.com<br><br>💬 Ask me about Data Science<br><br>
+🔭 I’m currently working on Data Science<br><br>🌱 I’m currently learning Machine Learning<br><br>📫 How to reach me zahidgrgze@gmail.com<br><br>💬 Ask me about Data Science<br><br>
 
 
 ## 🌐 Socials:
